@@ -1,0 +1,15 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "core.js" ]
+   },
+   "description": "Quickly find what you're looking for in Salesforce by utilizing the right click context menu for highlighted text.",
+   "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Right click search for Salesforce",
+   "permissions": [ "contextMenus", "tabs" ],
+   "version": "0.1"
+}
